@@ -4,4 +4,9 @@
     <latestVersionCode>612</latestVersionCode>
     <url>https://github.com/TonnyL/WhatsNew</url>
   </update>
+  <releaseNotes>
+- First evolution
+- Second evolution
+- Bug fixes
+    </releaseNotes>
 </AppUpdater>

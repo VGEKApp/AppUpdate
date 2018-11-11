@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>6.1.0</latestVersion>
-    <latestVersionCode>610</latestVersionCode>
-    <url>http://4pda.ru</url>
+    <latestVersion>6.1.1</latestVersion>
+    <latestVersionCode>611</latestVersionCode>
+    <url>https://github.com/TonnyL/WhatsNew</url>
   </update>
 </AppUpdater>

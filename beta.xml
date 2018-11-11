@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>6.1.1</latestVersion>
-    <latestVersionCode>611</latestVersionCode>
+    <latestVersion>6.1.2</latestVersion>
+    <latestVersionCode>612</latestVersionCode>
     <url>https://github.com/TonnyL/WhatsNew</url>
   </update>
 </AppUpdater>

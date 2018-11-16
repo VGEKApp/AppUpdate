@@ -1,12 +1,11 @@
 <AppUpdater>
   <update>
     <latestVersion>6.0.1</latestVersion>
-    <latestVersionCode>601</latestVersionCode>
-    <url>https://yadi.sk/d/pTS_qi5ibGOBsQ</url>
+    <latestVersionCode>602</latestVersionCode>
+    <url>https://drive.google.com/uc?export=download&id=195HouFyBhwam9xRw6cXCIc9TbD5KSEsL</url>
   </update>
   <releaseNotes>
-Автообновление   
-Багфикс
+Исправлена орфография
 Новые баги (￣^￣)ゞ
     </releaseNotes>
 </AppUpdater>

@@ -2,12 +2,12 @@
   <update>
     <latestVersion>6.0.2</latestVersion>
     <latestVersionCode>602</latestVersionCode>
-    <url>https://goo.gl/SCG3sH</url>
+    <url>https://goo.gl/DTkAs2</url>
   </update>
   <releaseNotes>
-    Версия 6.0.1 Bugfix
-    -Исправлена орфография
-    -Добавлены новые баги
-    -Скоро будет расписание звонков
+    Версия 6.0.2
+    Редизайн
+    Новая фича
+    Оптимизация в коде
   </releaseNotes>
 </AppUpdater>
